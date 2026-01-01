@@ -12,9 +12,11 @@ BoxVerify は、現場向けのコード照合・検 品・棚卸を行う
 ## サポート・お問い合わせ
 不具合の報告やご質問は、以下のメールアドレスまでご連絡ください。
 
-📩 **support@boxverify.app**  
+📩 [**support@boxverify.app** ] 
 
 ## 対応環境
 - iOS 16 以降
 - iPhone / iPad
 
+## プライバシーポリシー
+https://strespect629-debug.github.io/boxverify-support/privacy.html
